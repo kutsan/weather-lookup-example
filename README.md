@@ -1,8 +1,8 @@
-# `weather-me` [![Node.js CI](https://github.com/kutsan/weather-me/actions/workflows/nodejs.yml/badge.svg)](https://github.com/kutsan/weather-me/actions/workflows/nodejs.yml)
+# `weather-lookup-example` [![Node.js CI](https://github.com/kutsan/weather-lookup-example/actions/workflows/nodejs.yml/badge.svg)](https://github.com/kutsan/weather-me/actions/workflows/nodejs.yml)
 
-![screenshot](https://raw.githubusercontent.com/kutsan/weather-me/master/.github/screenshot.png)
+![screenshot](https://github.com/kutsan/weather-lookup-example/raw/master/.github/screenshot.png)
 
-Simple weather application that uses OpenWeatherMap API. I needed a fast app to simply search for cities and show their current weather conditions. So, it does simply one thing, show the current weather and its details.
+Simple weather application that uses OpenWeatherMap API.
 
 ## Development
 
